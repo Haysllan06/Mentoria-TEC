@@ -10,6 +10,7 @@ public class Questao01 {
 
         System.out.println("area do retangulo: " + area_retangulo);
         System.out.println("perimetro do retangulo: " + perimetro_retangulo);
+         System.out.println("perimetro do retangulo: " + perimetro_retangulo);
 
 
     }
